@@ -1,0 +1,20 @@
+<humaninfo>
+    <human>
+        <name>Samanta Kos</name>
+        <age>27</age>
+        <pesel>123456789</pesel>
+        <adress>ul. Kremowa 21/37
+        89-000 Warszawa</adress>
+        <phone>222-555-333</phone>
+        <e-mail>textsamanta@gmail.com</e-mail>
+    </human>
+    <human>
+        <name>Zbyszek Nowak</name>
+        <age>33</age>
+        <pesel>987654321</pesel>
+        <adress> ul. Liliowa 66
+        43-176 Czarna</adress>
+        <phone>888-999-000</phone>
+        <e-mail>textzbyszek@gmail.com</e-mail>
+    </human>
+</humaninfo>
