@@ -1,0 +1,25 @@
+{   "humaninfo" :
+    {   
+        "human" : [
+            {
+                "name":"Samanta Kos",
+                "age" :27,
+                "pesel" :123456789,
+                 "ulica":"ul. Kremowa" 2137
+                89-000 "Warszawa",
+                 "phone":222-555-333,
+                 "e-mail":"textsamanta@gmail.com",
+            },
+            {
+                "name":"Zosia Bratek",
+                "age" :99,
+                "pesel" :47375347587,
+                 "ulica":"ul. Bezowa" 12
+                05-557 "Radom",
+                 "phone":787-000-654,
+                 "e-mail":"textzosia@gmail.com",
+            }
+        ]
+    }
+}
+
